@@ -7,7 +7,7 @@ Submitted by: **Ramya Madugula**
 
 **Pretty Colors** is an app that allows the user to change the background to a random color at the press of a button. 
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 

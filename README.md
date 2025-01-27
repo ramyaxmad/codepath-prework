@@ -8,6 +8,14 @@ Submitted by: **Ramya Madugula**
 **Pretty Colors** is an app that allows the user to change the background to a random color at the press of a button. 
 <div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/e7bfe1ad4e16476785d3f038913719ee?sid=4e92ab71-1a7e-487e-ab48-60051a0dfeb3" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+<div>
+    <a href="https://www.loom.com/share/6641b6b3c5fa4534a4f0e8eaeee84793">
+    </a>
+    <a href="https://www.loom.com/share/6641b6b3c5fa4534a4f0e8eaeee84793">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6641b6b3c5fa4534a4f0e8eaeee84793-99a291ac227d1e50-full-play.gif">
+    </a>
+  </div>
+
 Time spent: **3** hours spent in total
 
 ## Required Features
